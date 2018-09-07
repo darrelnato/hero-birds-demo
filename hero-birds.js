@@ -1,8 +1,8 @@
 VANTA.BIRDS({
 	el: "#hero-birds-bg",
-	backgroundColor: 0x0F1617,
-	color1: 0x0F1617,
-	color2: 0x0F1617,
+	backgroundColor: 0x4F50FF,
+	color1: 0xffffff,
+	color2: 0x4330B3,
 	wingSpan: 10.00,
 	separation: 25.00,
 	cohesion: 1.00,
